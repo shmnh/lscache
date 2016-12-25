@@ -1,0 +1,12 @@
+{
+  "Memcached": {
+    "host": "127.0.0.1",
+    "port": "11211",
+    "isOpen": true
+  },
+  "Redis": {
+    "host": "127.0.0.1",
+    "port": "6379",
+    "isOpen": true
+  }
+}

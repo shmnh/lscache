@@ -1,0 +1,42 @@
+{
+  "author": {
+    "email": "shmnh@126.com",
+    "name": "s.liang"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "contributors": [],
+  "dependencies": {
+    "memcached": "*",
+    "redis": "*"
+  },
+  "description": "http cache, redis cache, memcache cache",
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "",
+    "size": 49631,
+    "tarball": "http://registry.npm.taobao.org/express/download/express-4.13.4.tgz"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "gitHead": "",
+  "homepage": "https://github.com/shmnh/lscache",
+  "keywords": [],
+  "license": "",
+  "maintainers": [],
+  "name": "lscache",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shmnh/lscache.git"
+  },
+  "scripts": {},
+  "version": "0.1"
+}
