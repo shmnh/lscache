@@ -100,12 +100,13 @@ function getUrlData (url, option) {
             }
         });
     });
-    promise.then(function (resolve) {
-        return resolve;
-    }, function (error) {
-        console.error(error);
-        return error;
-    });
+    //promise.then(function (resolve) {
+    //    return resolve;
+    //}, function (error) {
+    //    console.error(error);
+    //    return error;
+    //});
+    return promise;
 }
 
 process.on('uncaughtException', function (err) {
